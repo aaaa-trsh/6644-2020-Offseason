@@ -1,0 +1,11 @@
+[
+  {
+    "name": "drive (in project drive)",
+    "file": "C:\\Users\\kieth\\OneDrive\\Documents\\FRC Projects\\drive\\build\\libs\\drive.jar",
+    "extensions": [
+      "C:\\Users\\kieth\\OneDrive\\Documents\\FRC Projects\\drive\\build\\tmp\\expandedArchives\\halsim_gui-2020.1.1-windowsx86-64.zip_9a04a977f71395a52b796706bab5e8ab\\windows\\x86-64\\shared\\halsim_gui.dll"
+    ],
+    "librarydir": "C:\\Users\\kieth\\OneDrive\\Documents\\FRC Projects\\drive\\build\\tmp\\jniExtractDir",
+    "mainclass": "frc.robot.Main"
+  }
+]
